@@ -1,8 +1,12 @@
 # frtproject
 my futurereadytalent project
 
-## My Website Link: https://surendrareddy7.github.io/frtproject/contact.html
+# My Website Link: https://surendrareddy7.github.io/frtproject/contact.html
 ## Azure tools applied : Static Web Apps, App services
+
+ Static Web App link : https://lively-sky-0a18d3200.2.azurestaticapps.net/
+ 
+ App Services link : https://bootieweb.azurewebsites.net/
 
 ## Home
 ![home1](https://user-images.githubusercontent.com/116636086/201474137-10db184a-bc69-4637-ae27-84eafa420ecc.png)
@@ -24,5 +28,11 @@ my futurereadytalent project
 ![contact4](https://user-images.githubusercontent.com/116636086/201474204-8bc40031-41fe-4e69-bb41-7cf6f8692673.png)
 
 # Azure Resources
+![resources](https://user-images.githubusercontent.com/116636086/201475809-d5f2aba5-b3df-4f10-b08d-1972c8d457e9.png)
+
+
+![static](https://user-images.githubusercontent.com/116636086/201475816-9742faca-9936-4bc6-a287-5a49907e8f42.png)
+
+![appservices](https://user-images.githubusercontent.com/116636086/201475822-c9e2cdc6-9e2c-4b26-a865-edaf1b2c816e.png)
 
 
