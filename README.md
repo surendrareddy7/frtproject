@@ -1,6 +1,23 @@
 # frtproject
 my futurereadytalent project
 
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : BootieWeb
+
+Problem Statement/Opportunity : This is an website for the online footware shopping.
+
+Project Description : Core idea is Online shopping of branded footwares available in lowest prices and exclusive offers.
+
+
+Online shopping is the process whereby consumers directly buy goods or services from a seller in real-time, without an intermediary service, over the Internet. It is a form of electronic commerce.
+
 # My Website Link: https://surendrareddy7.github.io/frtproject/contact.html
 ## Azure tools applied : Static Web Apps, App services
 
