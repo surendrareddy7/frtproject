@@ -44,6 +44,11 @@ Online shopping is the process whereby consumers directly buy goods or services 
 ![contact3](https://user-images.githubusercontent.com/116636086/201474202-3b82308a-2cb9-41df-8aec-2331bd2aebc4.png)
 ![contact4](https://user-images.githubusercontent.com/116636086/201474204-8bc40031-41fe-4e69-bb41-7cf6f8692673.png)
 
+## Demo video
+
+https://user-images.githubusercontent.com/116636086/213652003-6eb42dee-c0eb-44a2-ab08-bb70173fcf61.mp4
+
+
 # Azure Resources
 ![resources](https://user-images.githubusercontent.com/116636086/201475809-d5f2aba5-b3df-4f10-b08d-1972c8d457e9.png)
 
